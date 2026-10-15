@@ -1,6 +1,6 @@
 #  MainStage MIDI controller mapping for the Novation Launchkey MK4
 
-This is a WIP adapted from mkuron's MK3 config.
+This is a WIP adapted from mkuron's MK3 config using Claude. This currently supports the 61 key version.
 
 ## Installation
 
